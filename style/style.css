@@ -1,0 +1,34 @@
+.bg-roxo{
+    background-color: rgb(114, 232, 253);
+}
+
+a:hover{
+  font-weight: bold;
+}
+
+.imagem-carousel {
+    object-fit: cover;
+    object-position: 0 40%;
+    height: 65vh;
+  
+}
+
+.link-sobre{
+  color:  rgb(114, 232, 253);  
+}
+
+.link-sobre:hover{
+  color:  rgb(114, 232, 253);
+}
+
+.redes-sociais i{
+  font-size: 1.6rem;
+}
+
+.font-roxo{
+  color: rgb(114, 232, 253);
+}
+
+.footer{
+  height: 30px;
+}
